@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+
+<style>
+
+body {
+  background-color: #D8DBE2; color: #055864;
+}
+h1 {
+  color: #574B60;
+}
+</style>
+
+body {
+	
+}
+
+h1 {
+	color: skyblue;
+}
+
+</style>
+
+<body id="body">
+  <h1>Nissi Sanju</h1>
+  <p>Hello, my name is Nissi!</p>
+  <p>I am a part of the TKHS coding club!</p> <p>My favorite things are: </p>
+  <ul>
+    <li>Coding</li>
+    <li>Reading</li>
+    <li>Munching</li>
+  </ul>
+  
+  <p>A fun fact about me is that I know the coding language Swift, which creates iOS mobile apps<p>
+  
+  <img src="https://dadjokes.us.com/wp- content/uploads/2025/09/goofy-ahh-cat-meme.jpg" alt="nice
+  cat image">
+  <p></p>
+  
+  <button onclick="change()">Change color?</button>
+  
+  <script>
+    function change() {
+      document.getElementById("body").style.color =
+      "hotpink";
+    }
+  </script>
+
+</body>
+</html>
