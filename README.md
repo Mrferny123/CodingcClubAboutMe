@@ -1,4 +1,5 @@
-#CodingCub About me
+# CodingCub About me
+
 I made this project to explore what web dev was and create a simple about me website that I could teach to others at my coding club. I learned a lot more about HTML, CSS, and JS.
 
 
